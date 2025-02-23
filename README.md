@@ -2,6 +2,8 @@
 
 Small project for me to play around with Odin and learn Raycasting
 
+![raycasting-odin-showcase](https://github.com/user-attachments/assets/66fdefd1-07bd-45fa-8c37-38e2d2ea0fdd)
+
 ## How to play
 
 - Move player using "WASD"
@@ -16,5 +18,5 @@ Small project for me to play around with Odin and learn Raycasting
 
 ## How to run
 
-- Install the [Odin](https://odin-lang.org/docs/install/)
+- Install [Odin](https://odin-lang.org/docs/install/)
 - Run `odin run .` inside the project folder
